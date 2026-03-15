@@ -1,49 +1,64 @@
-# Garvin Edwards
 
-Python developer focused on automation tools, desktop applications, and data processing.
+👋 Hi, I'm Garvin Edwards
 
-## Projects
+Python developer focused on automation tools, desktop applications, and workflow software.
 
-### File Organizer GUI
+I build practical tools that eliminate repetitive work and improve productivity.
 
-A desktop automation tool that organizes files into categorized folders and monitors directories in real time.
+---
 
-Key features:
+🚀 Featured Projects
 
-* GUI interface
-* Preview file organization
-* Real-time folder monitoring
-* Undo functionality
-* Configurable file rules
+🎮 Hangman GUI
 
-Repository:
-https://github.com/garvinedwards717-cloud/FileOrganizer-GUI
+A polished desktop Hangman game built with Python and Pygame, featuring animated menus, selectable categories, sound effects, and difficulty levels.
 
-### Excel Report Automation
+🔗 https://github.com/garvinedwards717-cloud/Hangman-GUI
 
-A Python automation tool that processes raw Excel sales data, cleans it using pandas, and generates summarized reports and charts automatically.
+---
 
-Key features:
+📂 File Organizer GUI
 
-* Excel data cleaning
-* Sales summaries
-* Automated chart generation
-* Standalone executable
+A desktop automation tool that automatically organizes files into categorized folders, with monitoring and undo capabilities.
 
-Repository:
-https://github.com/garvinedwards717-cloud/Excel-Report-Automation
+🔗 https://github.com/garvinedwards717-cloud/FileOrganizer-GUI
 
-## Skills
+---
 
-Python
-Automation
-Data Processing
-Desktop Applications
-Pandas
-Git
+📊 Excel Report Automation
 
-## Contact
+A Python automation tool that processes Excel sales data, cleans it with Pandas, and generates summaries and charts automatically.
 
-GitHub:
+🔗 https://github.com/garvinedwards717-cloud/Excel-Report-Automation
+
+---
+
+🛠 Technologies
+
+- Python
+- Pandas
+- Tkinter
+- Pygame
+- Automation scripting
+- Desktop GUI development
+
+---
+
+🎯 What I Build
+
+• Automation tools
+• Desktop applications
+• Data processing tools
+• Productivity software
+
+---
+
+📈 Currently Learning
+
+Improving my Python development skills by building real-world automation and desktop applications.
+
+---
+
+🌐 GitHub
+
 https://github.com/garvinedwards717-cloud
-
