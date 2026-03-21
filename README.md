@@ -10,19 +10,19 @@ Each tool is designed to be simple, fast, and actually useful — no unnecessary
 
 ### 🎮 Hangman GUI
 A Python-based Hangman game with a graphical interface and sound effects.  
-👉 https://github.com/AutoForge-atd/Hangman-GUI  
+Download available 👉 https://github.com/AutoForge-atd/Hangman-GUI  
 
 ---
 
 ### 📊 Excel Report Automation
 Automates cleaning Excel data, generating reports, and creating charts.  
-👉 https://github.com/AutoForge-atd/Excel-Report-Automation  
+Download available 👉 https://github.com/AutoForge-atd/Excel-Report-Automation  
 
 ---
 
 ### 📂 File Organizer GUI
 Organizes messy folders automatically by sorting files into categories.  
-👉 https://github.com/AutoForge-atd/FileOrganizer-GUI  
+Download available 👉 https://github.com/AutoForge-atd/FileOrganizer-GUI  
 
 ---
 
