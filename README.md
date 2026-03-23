@@ -29,19 +29,19 @@ Download available 👉 https://github.com/AutoForge-atd/FileOrganizer-GUI
 ### 📄 AutoForge PDF Toolkit Pro
 Merge, split, and manage PDF files quickly and efficiently.  
 👉 https://github.com/AutoForge-atd/AutoForge-PDF-Toolkit-Pro  
-
+   https://autoforge7.gumroad.com/l/hhmve
 ---
 
 ### 🧾 Smart Invoice Generator
 Generate professional invoices from structured data in seconds.  
 👉 https://github.com/AutoForge-atd/Smart-Invoice-Generator  
-
+   https://autoforge7.gumroad.com/l/opaikk
 ---
 
 ### ⚡ Smart File Organizer Pro
 Advanced version of the file organizer with enhanced automation and controls.  
 👉 https://github.com/AutoForge-atd/Smart-File-Organizer-Pro  
-
+   https://autoforge7.gumroad.com/l/fqvlfn
 ---
 
 ## 🔗 Links
