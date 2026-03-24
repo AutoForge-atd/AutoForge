@@ -53,14 +53,14 @@ Advanced version of the file organizer with enhanced automation and controls.
 ### ✉️ AutoForge Email Sender Pro
 A lightweight desktop tool designed to simplify bulk email sending.
 👉 https://github.com/AutoForge-atd/AutoForge-Email-Sender-Pro
-👉 https://autoforge7.gumroad.com/l/otxmu
+ 👉 https://autoforge7.gumroad.com/l/otxmu
 
 ---
 
 ### 📝 AutoForge Content Generator Pro
 Generates hooks, captions, and hashtags instantly with AI.
 👉 https://github.com/AutoForge-atd/AutoForge-Content-Generator-Pro
-👉 https://autoforge7.gumroad.com/l/bqixzf
+ 👉 https://autoforge7.gumroad.com/l/bqixzf
 
 ---
 
