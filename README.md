@@ -10,19 +10,22 @@ Each tool is designed to be simple, fast, and actually useful — no unnecessary
 
 ### 🎮 Hangman GUI
 A Python-based Hangman game with a graphical interface and sound effects.  
-Download available 👉 https://github.com/AutoForge-atd/Hangman-GUI  
+Download available.
+👉 https://github.com/AutoForge-atd/Hangman-GUI  
 
 ---
 
 ### 📊 Excel Report Automation
 Automates cleaning Excel data, generating reports, and creating charts.  
-Download available 👉 https://github.com/AutoForge-atd/Excel-Report-Automation  
+Download available.
+👉 https://github.com/AutoForge-atd/Excel-Report-Automation  
 
 ---
 
 ### 📂 File Organizer GUI
 Organizes messy folders automatically by sorting files into categories.  
-Download available 👉 https://github.com/AutoForge-atd/FileOrganizer-GUI  
+Download available.
+👉 https://github.com/AutoForge-atd/FileOrganizer-GUI  
 
 ---
 
@@ -36,14 +39,28 @@ Merge, split, and manage PDF files quickly and efficiently.
 ### 🧾 Smart Invoice Generator
 Generate professional invoices from structured data in seconds.  
 👉 https://github.com/AutoForge-atd/Smart-Invoice-Generator  
-👉  https://autoforge7.gumroad.com/l/opaikk
+👉 https://autoforge7.gumroad.com/l/opaikk
 
 ---
 
 ### ⚡ Smart File Organizer Pro
 Advanced version of the file organizer with enhanced automation and controls.  
 👉 https://github.com/AutoForge-atd/Smart-File-Organizer-Pro  
-👉  https://autoforge7.gumroad.com/l/fqvlfn
+👉 .https://autoforge7.gumroad.com/l/fqvlfn
+
+---
+
+### ✉️ AutoForge Email Sender Pro
+A lightweight desktop tool designed to simplify bulk email sending.
+👉 https://github.com/AutoForge-atd/AutoForge-Email-Sender-Pro
+👉 https://autoforge7.gumroad.com/l/otxmu
+
+---
+
+### 📝 AutoForge Content Generator Pro
+Generates hooks, captions, and hashtags instantly with AI.
+👉 https://github.com/AutoForge-atd/AutoForge-Content-Generator-Pro
+👉 https://autoforge7.gumroad.com/l/bqixzf
 
 ---
 
