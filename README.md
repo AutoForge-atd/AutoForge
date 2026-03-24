@@ -46,21 +46,25 @@ Generate professional invoices from structured data in seconds.
 ### ⚡ Smart File Organizer Pro
 Advanced version of the file organizer with enhanced automation and controls.  
 👉 https://github.com/AutoForge-atd/Smart-File-Organizer-Pro  
-👉 .https://autoforge7.gumroad.com/l/fqvlfn
+👉 https://autoforge7.gumroad.com/l/fqvlfn
 
 ---
 
 ### ✉️ AutoForge Email Sender Pro
 A lightweight desktop tool designed to simplify bulk email sending.
+
 👉 https://github.com/AutoForge-atd/AutoForge-Email-Sender-Pro
- 👉 https://autoforge7.gumroad.com/l/otxmu
+
+👉 https://autoforge7.gumroad.com/l/otxmu
 
 ---
 
 ### 📝 AutoForge Content Generator Pro
 Generates hooks, captions, and hashtags instantly with AI.
+
 👉 https://github.com/AutoForge-atd/AutoForge-Content-Generator-Pro
- 👉 https://autoforge7.gumroad.com/l/bqixzf
+
+👉 https://autoforge7.gumroad.com/l/bqixzf
 
 ---
 
