@@ -68,6 +68,14 @@ Generates hooks, captions, and hashtags instantly with AI.
 
 ---
 
+### ✍️ AutoForge Reply Writer Pro
+AI-Powered Smart Responses Generator Windows App.
+
+👉 https://github.com/AutoForge-atd/AutoForge-Reply-Writer-Pro
+
+👉 https://autoforge7.gumroad.com/l/fsmjs
+
+
 ## 🔗 Links
 
 - 💻 GitHub: https://github.com/AutoForge-atd  
